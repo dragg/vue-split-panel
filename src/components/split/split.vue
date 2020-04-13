@@ -102,8 +102,6 @@
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
-  overflow-y: auto;
-  overflow-x: hidden;
   height: 100%;
   width: 100%;
 }
